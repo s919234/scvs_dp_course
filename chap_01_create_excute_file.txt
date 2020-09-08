@@ -1,0 +1,7 @@
+產生 Python 程行檔
+
+開啟==>執行 ==> cmd
+
+輸入 pip.exe install pyinstaller
+
+pyinstaller -F 文件名.py
