@@ -1,0 +1,11 @@
+
+n=input("你的名子?")
+print("你好",n)
+c=input("chinese_scroe")
+e=input("englise_scroe")
+m=input("math_soroe")
+c_s=eval(c)
+e_s=eval(e)
+m_s=eval(m)
+print(n)
+print("name",n,"chinese_score",c,"englise_score",e,"math_score",m,"total",c_s+e_s+m_s)
